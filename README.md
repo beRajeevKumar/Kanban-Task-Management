@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# Kanban Task Manager 🗓️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Master your tasks effortlessly! Discover my intuitive Kanban tool with three columns (Todo, Doing, Done) for smooth task tracking. Embrace dark and bright modes, add tasks on the fly, and effortlessly organize your workflow.
 
-## Available Scripts
+Click [here](https://kanban-task-management-rajeev.vercel.app/) and Enjoy the Memory game.
 
-In the project directory, you can run:
+<p align="center">  
+<img src="./public/preview.png"/>  
+</p>
 
-### `npm start`
+## Features and Interfaces
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Home page
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   - Player can select the type of game between Icon and Number.
+   - Player can select the number of players.
+   - Single user can play game with computer logic.
+   - 4x4 and 6x6 grid challenges to make game more entertaining.
 
-### `npm test`
+2. Game Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   - A grid of cards with hidden icons or numbers.
+   - A timer to show the time taken by the user to complete the game.
+   - A counter to show the total moves taken by the user to complete the game.
+   - A button to go back to home page.
 
-### `npm run build`
+   - A button to restart the game.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   - ![image](./public/preview2.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Winner Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   - A Greet message to the winner.
+   - Time taken by the user to complete the game.
+   - Total moves taken by the user to complete the game.
+   - A button to play again.
+   - A button to go back to home page.
 
-### `npm run eject`
+   - ![image](./public/preview3.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tech stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Frontend
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- React.Js
+- JavaScript
+- React-DOM
+- User Events
+- Redux
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### Other Tools
 
-## Learn More
+- Font Awesome/react-fontawesome
+- Fort Awesome/free-solid-svg-icons
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Points to remember while testing the WebApp
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. First of all fork this [repository](https://github.com/Rajeevjewar/Kanban-Task-Management.git) and clone it.
+2. Install all the dependencies using `npm install` command.
+3. Run the app using `npm start` command.
+4. When testing on android emulator, if you get a connection error use `http://localhost:3000/`
+5. The app is now running, Now you can test the WebApp.
 
-### Code Splitting
+## Instructions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Select the type of game between Icon and Number.
+2. Select the number of players.
+3. Select the grid size between 4x4 or 6x6.
+4. Click on the start button.
+5. Click on the cards to reveal the hidden icons or numbers.
+6. Match the cards to win the game.
+7. Click on the restart button to restart the game.
+8. Click on the home button to go back to home page.
 
-### Analyzing the Bundle Size
+## Useful Links
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Project Demo](https://kanban-task-management-rajeev.vercel.app/) for Web version
 
-### Making a Progressive Web App
+- [Project Repository](https://github.com/Rajeevjewar/Kanban-Task-Management.git)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Need help?
 
-### Advanced Configuration
+Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [LinkedIn](https://www.linkedin.com/in/berajeevkumar/), know more about me at [iamrajeev.me](https://iamrajeev.me)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/be_rajeevkumar)
 
-### Deployment
+<hr>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<h1 align=center>Happy Coding 👨‍💻</h1>
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Show some ❤️&nbsp; by giving the star to this repo
