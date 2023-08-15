@@ -71,4 +71,4 @@ Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [Lin
 
 <h1 align=center>Happy Coding 👨‍💻</h1>
 
-Show some ❤️&nbsp; by giving the star to this repo
+<p align = "center">Show some ❤️&nbsp; by giving the star to this repo</p>
