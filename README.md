@@ -1,8 +1,8 @@
-# Kanban Task Manager 🗓️
+<h1 align="center">Kanban Task Manager 🗓️</h1>
 
 Master your tasks effortlessly! Discover my intuitive Kanban tool with three columns (Todo, Doing, Done) for smooth task tracking. Embrace dark and bright modes, add tasks on the fly, and effortlessly organize your workflow.
 
-Click [here](https://kanban-task-management-rajeev.vercel.app/) and Enjoy the Memory game.
+Click [here](https://kanban-task-management-rajeev.vercel.app/) and Enjoy the Kanban Task Manager.
 
 <p align="center">  
 <img src="./public/preview.png"/>  
@@ -10,33 +10,23 @@ Click [here](https://kanban-task-management-rajeev.vercel.app/) and Enjoy the Me
 
 ## Features and Interfaces
 
-1. Home page
+- Multiple Boards: Create and manage multiple boards for tasks.
 
-   - Player can select the type of game between Icon and Number.
-   - Player can select the number of players.
-   - Single user can play game with computer logic.
-   - 4x4 and 6x6 grid challenges to make game more entertaining.
+- Customizable Board: Fully customizable board to simplify tasks.
 
-2. Game Page
+- Easy Task Tracking: Effortlessly track progress by swiping tasks.
 
-   - A grid of cards with hidden icons or numbers.
-   - A timer to show the time taken by the user to complete the game.
-   - A counter to show the total moves taken by the user to complete the game.
-   - A button to go back to home page.
+- Add New Columns: Add columns to tailor the tool to your workflow.
 
-   - A button to restart the game.
+- Hide Slider: Hide slider for clutter-free workspace.
 
-   - ![image](./public/preview2.png)
+- Dark and Light Modes: Work in any environment with both modes available.
 
-3. Winner Page
+- Quick Add Button: One-click button to quickly add new tasks.
 
-   - A Greet message to the winner.
-   - Time taken by the user to complete the game.
-   - Total moves taken by the user to complete the game.
-   - A button to play again.
-   - A button to go back to home page.
+- Board Management Options: Edit, Clear, Delete, or Reset boards with three dots menu.
 
-   - ![image](./public/preview3.png)
+- ![image](./public/preview2.png)
 
 ## Tech stack
 
@@ -44,12 +34,17 @@ Click [here](https://kanban-task-management-rajeev.vercel.app/) and Enjoy the Me
 
 - React.Js
 - JavaScript
+- SASS
 - React-DOM
 - User Events
 - Redux
+- React Toolkit
+- User Events
+- Framer Motion & More +
 
 #### Other Tools
 
+- Material UI
 - Font Awesome/react-fontawesome
 - Fort Awesome/free-solid-svg-icons
 
@@ -60,17 +55,6 @@ Click [here](https://kanban-task-management-rajeev.vercel.app/) and Enjoy the Me
 3. Run the app using `npm start` command.
 4. When testing on android emulator, if you get a connection error use `http://localhost:3000/`
 5. The app is now running, Now you can test the WebApp.
-
-## Instructions
-
-1. Select the type of game between Icon and Number.
-2. Select the number of players.
-3. Select the grid size between 4x4 or 6x6.
-4. Click on the start button.
-5. Click on the cards to reveal the hidden icons or numbers.
-6. Match the cards to win the game.
-7. Click on the restart button to restart the game.
-8. Click on the home button to go back to home page.
 
 ## Useful Links
 
