@@ -2,11 +2,11 @@
 
 Master your tasks effortlessly! Discover my intuitive Kanban tool with three columns (Todo, Doing, Done) for smooth task tracking. Embrace dark and bright modes, add tasks on the fly, and effortlessly organize your workflow.
 
-Click [here](https://kanban-task-management-rajeev.vercel.app/) and Enjoy the Kanban Task Manager.
-
 <p align="center">  
 <img src="./public/preview.png"/>  
 </p>
+
+Click [here](https://kanban-task-management-rajeev.vercel.app/) and simplify your tasks with Kanban Task Manager.
 
 ## Features and Interfaces
 
