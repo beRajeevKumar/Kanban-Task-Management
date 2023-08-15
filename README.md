@@ -45,8 +45,7 @@ Click [here](https://kanban-task-management-rajeev.vercel.app/) and simplify you
 #### Other Tools
 
 - Material UI
-- Font Awesome/react-fontawesome
-- Fort Awesome/free-solid-svg-icons
+- Styled Components
 
 ## Points to remember while testing the WebApp
 
