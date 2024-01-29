@@ -1,4 +1,4 @@
-<h1 align="center">Kanban Task Manager 🗓️</h1>
+<h1 align="center">📈 Kanban Task Manager 🗓️</h1>
 
 Master your tasks effortlessly! Discover my intuitive Kanban tool with three columns (Todo, Doing, Done) for smooth task tracking. Embrace dark and bright modes, add tasks on the fly, and effortlessly organize your workflow.
 
@@ -57,18 +57,16 @@ Click [here](https://kanban-task-management-rajeev.vercel.app/) and simplify you
 
 ## Useful Links
 
-- [Project Demo](https://kanban-task-management-rajeev.vercel.app/) for Web version
+- [Project Demo](https://kanban-task-management-rajeev.vercel.app/) for Web version.
 
 - [Project Repository](https://github.com/Rajeevjewar/Kanban-Task-Management.git)
 
 ## Need help?
 
-Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [LinkedIn](https://www.linkedin.com/in/berajeevkumar/), know more about me at [iamrajeev.me](https://iamrajeev.me)
+Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [LinkedIn](https://www.linkedin.com/in/berajeevkumar/), know more about me at [Portfolio](https://iamrajeev.me).
 
 [![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/be_rajeevkumar)
 
 <hr>
 
 <h1 align=center>Happy Coding 👨‍💻</h1>
-
-<p align = "center">Show some ❤️&nbsp; by giving the star to this repo</p>
